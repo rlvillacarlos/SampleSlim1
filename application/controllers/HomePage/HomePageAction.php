@@ -13,6 +13,6 @@
  */
 class HomePageAction {
     public function __invoke() {
-        echo 'Home Page';
+        echo 'Hi World';
     }
 }
