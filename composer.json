@@ -10,6 +10,11 @@
     "require": {
         "slim/slim": "3.12.1"
     },
-    
+    "autoload": {
+        "psr-4": {
+            "Application\\Models\\":"./application/models/",
+            "Application\\Controllers\\":"./application/controllers/"
+        }
+    }
     
 }
