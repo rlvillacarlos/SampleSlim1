@@ -1,0 +1,15 @@
+{
+    "name": "vendor/sample-slim1",
+    "description": "Description of project SampleSlim1.",
+    "authors": [
+        {
+            "name": "russel",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.12.1"
+    },
+    
+    
+}
